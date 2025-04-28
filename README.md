@@ -1,4 +1,4 @@
-<img src="80f1c45708e539c717dbf76a7f5d845f.jpg" alt="Luffy Gear 5 Banner" style="width: 100%; height: 400px; object-fit: cover;">
+<img src="80f1c45708e539c717dbf76a7f5d845f.jpg" alt="Luffy Gear 5 Banner" style="width: 100%; height: 300px; object-fit: cover;">
 
 # 💫 About Me: 
 👋 Hi there! I’m a freelance full-stack web developer specializing in building modern, responsive websites. I focus on transforming ideas into interactive and visually engaging web experiences. Using the best tools available, I deliver reliable, high-quality solutions. My goal is to create websites that inspire trust and consistently exceed client expectations.
