@@ -1,4 +1,4 @@
-![Luffy Gear 5 Banner](https://ph.pinterest.com/pin/343047696636733660/)
+<img src="https://ph.pinterest.com/pin/343047696636733660/" alt="Luffy Gear 5 Banner" width="100%">
 
 # 💫 About Me: 
 👋 Hi there! I’m a freelance full-stack web developer specializing in building modern, responsive websites. I focus on transforming ideas into interactive and visually engaging web experiences. Using the best tools available, I deliver reliable, high-quality solutions. My goal is to create websites that inspire trust and consistently exceed client expectations.
