@@ -1,11 +1,11 @@
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569932221711) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jovenmclt/)
+
 <img src="80f1c45708e539c717dbf76a7f5d845f.jpg" alt="Luffy Gear 5 Banner" style="width: 100%; height: 250px; object-fit: cover;">
 
 # 💫 About Me: 
-👋 Hi there! I’m a freelance full-stack web developer specializing in building modern, responsive websites. I focus on transforming ideas into interactive and visually engaging web experiences. Using the best tools available, I deliver reliable, high-quality solutions. My goal is to create websites that inspire trust and consistently exceed client expectations.
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569932221711) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jovenmclt/) 
+👋 Hi there! I’m a freelance full-stack web developer specializing in building modern, responsive websites. I focus on transforming ideas into interactive and visually engaging web experiences. Using the best tools available, I deliver reliable, high-quality solutions. My goal is to create websites that inspire trust and consistently exceed client expectations. 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
