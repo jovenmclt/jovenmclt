@@ -2,7 +2,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569932221711) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jovenmclt/)
 
-<img src="80f1c45708e539c717dbf76a7f5d845f.jpg" alt="Luffy Gear 5 Banner" style="width: 100%; height: 250px; object-fit: cover;">
+<img src="03a2a734f62ce6113493a9a140fb4124.jpg" alt="Luffy Gear 5 Banner" style="width: 100%; height: 250px; object-fit: cover;">
 
 📍 Full stack web developer from the philippines   
 💻 Building modern websites & web apps  
