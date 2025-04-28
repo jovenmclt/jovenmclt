@@ -4,7 +4,10 @@
 
 <img src="80f1c45708e539c717dbf76a7f5d845f.jpg" alt="Luffy Gear 5 Banner" style="width: 100%; height: 250px; object-fit: cover;">
 
-Hi there! I’m a freelance full-stack web developer specializing in building modern, responsive websites. I focus on transforming ideas into interactive and visually engaging web experiences. Using the best tools available, I deliver reliable, high-quality solutions. My goal is to create websites that inspire trust and consistently exceed client expectations. 
+Full Stack Web Developer from 🇵🇭 📍
+💻 Building modern websites & Web apps
+💼 Open for commissions and freelance work
+🚀 Let’s connect and create 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
