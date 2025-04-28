@@ -1,6 +1,6 @@
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569932221711) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jovenmclt/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569932221711) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jovenmclt/)
 
 <img src="80f1c45708e539c717dbf76a7f5d845f.jpg" alt="Luffy Gear 5 Banner" style="width: 100%; height: 250px; object-fit: cover;">
 
