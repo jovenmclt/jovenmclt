@@ -4,8 +4,8 @@
 
 <img src="80f1c45708e539c717dbf76a7f5d845f.jpg" alt="Luffy Gear 5 Banner" style="width: 100%; height: 250px; object-fit: cover;">
 
-Full Stack Web Developer from Philippines 📍  
-💻 Building modern websites & Web apps  
+Full stack web developer from philippines 📍  
+💻 Building modern websites & web apps  
 💼 Open for commissions and freelance work  
 🚀 Let’s connect and create  
  
