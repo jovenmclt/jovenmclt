@@ -1,7 +1,7 @@
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569932221711) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jovenmclt/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@jovenmc)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@jovenmcltt)
 
 
 <img src="do something great.jpg" alt="Luffy Gear 5 Banner" style="width: 100%; height: 300px; object-fit: cover;">
