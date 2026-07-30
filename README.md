@@ -11,6 +11,7 @@
 ## 💻 Tech stack:
 <div align="start">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,vue,mysql,redis,git,figma,netlify,vercel" alt="Tech Stack" /><a href="https://railway.app" target="_blank"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48" alt="Railway" style="margin-left:6px;" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,vue,mysql,redis,git,github,vite,npm,figma,netlify,vercel" alt="Tech Stack" /><span style="display:inline-block;background-color:
+#141414;border-radius:8px;padding:8px;margin-left:6px;vertical-align:middle;"><img src="https://cdn.simpleicons.org/railway/FFFFFF" width="32" height="32" alt="Railway" /></span>
 
 </div>
