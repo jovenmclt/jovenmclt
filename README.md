@@ -9,16 +9,11 @@
 🚀 Let’s connect and create  
  
 ## 💻 Tech stack:
-<div align="center"> 
- <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,vue,mysql,git,github,vite,npm,figma,netlify,vercel" alt="Tech Stack" />
-<a href="https://railway.app" target="_blank"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48" alt="Railway" /></a>    <a href="https://www.canva.com" target="_blank"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" /></a>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,vue,mysql,redis,git,figma,netlify,vercel" alt="Tech Stack" /><a href="https://railway.app" target="_blank"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48" alt="Railway" style="margin-left:6px;" /></a>
 
 </div>
-
-</div> <br/>
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jovenmiclatt&icon=0&color=0)](https://visitcount.itsvg.in)
 
