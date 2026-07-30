@@ -3,9 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jovenmclt/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joven-miclat-4a79a3341/)
 
-
-<img src="do something great.jpg" alt="Luffy Gear 5 Banner" style="width: 100%; height: 300px; object-fit: cover;">
-
 📍 Full stack web developer from the philippines   
 💻 Building modern websites & web apps  
 💼 Open for commissions and freelance work  
